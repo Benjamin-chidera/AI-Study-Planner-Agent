@@ -14,7 +14,7 @@ The **AI Study Planner Agent** is a Streamlit-based application that helps users
 
    ```bash
    git clone https://github.com/Benjamin-chidera/AI-Study-Planner-Agent.git
-   cd <repository-folder>
+   
    ```
 
 ## Dependencies
@@ -25,4 +25,3 @@ The project relies on the following Python libraries:
 - langchain-community
 - langgraph
 - streamlit
-
