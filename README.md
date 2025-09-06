@@ -13,7 +13,7 @@ The **AI Study Planner Agent** is a Streamlit-based application that helps users
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Benjamin-chidera/AI-Study-Planner-Agent.git
    cd <repository-folder>
    ```
 
